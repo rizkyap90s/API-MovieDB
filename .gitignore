@@ -1,0 +1,9 @@
+.env.development
+.env.production
+.env.test
+node_modules
+.DS_Store
+package-lock.json
+access.log
+coverage
+access.log
